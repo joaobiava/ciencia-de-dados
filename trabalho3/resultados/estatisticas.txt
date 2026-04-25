@@ -1,0 +1,10 @@
+ESTATÍSTICAS — Produção de Óleo (m³)
+count    40779.000000
+mean       389.191952
+std       1670.852820
+min          0.000000
+25%         48.600000
+50%        103.000000
+75%        213.500000
+max      51178.900000
+Name: oleo_m3, dtype: float64

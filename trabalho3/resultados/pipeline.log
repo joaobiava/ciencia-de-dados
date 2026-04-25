@@ -1,0 +1,539 @@
+2026-04-19 11:08:51,715 - INFO - ==================================================
+2026-04-19 11:08:51,715 - INFO - Pipeline iniciado em 2026-04-19 11:08:51
+2026-04-19 11:08:51,876 - WARNING - API Gov.br indisponível: 401 Client Error: Unauthorized for url: https://dados.gov.br/api/publico/conjuntos-dados/producao-de-petroleo-e-gas-natural. Usando CSV local.
+2026-04-19 11:08:52,737 - INFO - CSV carregado: 61295 registros.
+2026-04-19 11:08:53,159 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-19 11:08:53,169 - ERROR - Erro ao criar estrutura: Authentication plugin 'caching_sha2_password' is not supported
+2026-04-19 11:08:53,170 - ERROR - Erro ao salvar no MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2026-04-19 11:08:53,171 - ERROR - Erro ao consultar dados: Authentication plugin 'caching_sha2_password' is not supported
+2026-04-19 11:08:53,171 - WARNING - Consulta retornou vazia.
+2026-04-19 11:09:43,946 - INFO - ==================================================
+2026-04-19 11:09:43,947 - INFO - Pipeline iniciado em 2026-04-19 11:09:43
+2026-04-19 11:09:44,081 - WARNING - API Gov.br indisponível: 401 Client Error: Unauthorized for url: https://dados.gov.br/api/publico/conjuntos-dados/producao-de-petroleo-e-gas-natural. Usando CSV local.
+2026-04-19 11:09:44,852 - INFO - CSV carregado: 61295 registros.
+2026-04-19 11:09:45,254 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-19 11:09:45,265 - ERROR - Erro ao criar estrutura: Authentication plugin 'caching_sha2_password' is not supported
+2026-04-19 11:09:45,266 - ERROR - Erro ao salvar no MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2026-04-19 11:09:45,266 - ERROR - Erro ao consultar dados: Authentication plugin 'caching_sha2_password' is not supported
+2026-04-19 11:09:45,267 - WARNING - Consulta retornou vazia.
+2026-04-19 11:13:36,737 - INFO - ==================================================
+2026-04-19 11:13:36,737 - INFO - Pipeline iniciado em 2026-04-19 11:13:36
+2026-04-19 11:13:36,925 - WARNING - API Gov.br indisponível: 401 Client Error: Unauthorized for url: https://dados.gov.br/api/publico/conjuntos-dados/producao-de-petroleo-e-gas-natural. Usando CSV local.
+2026-04-19 11:13:37,764 - INFO - CSV carregado: 61295 registros.
+2026-04-19 11:13:38,347 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-19 11:13:38,361 - ERROR - Erro ao criar estrutura: Authentication plugin 'caching_sha2_password' is not supported
+2026-04-19 11:13:38,363 - ERROR - Erro ao salvar no MySQL: Authentication plugin 'caching_sha2_password' is not supported
+2026-04-19 11:13:38,363 - ERROR - Erro ao consultar dados: Authentication plugin 'caching_sha2_password' is not supported
+2026-04-19 11:13:38,364 - WARNING - Consulta retornou vazia.
+2026-04-19 11:15:02,036 - INFO - ==================================================
+2026-04-19 11:15:02,036 - INFO - Pipeline iniciado em 2026-04-19 11:15:02
+2026-04-19 11:15:02,186 - WARNING - API Gov.br indisponível: 401 Client Error: Unauthorized for url: https://dados.gov.br/api/publico/conjuntos-dados/producao-de-petroleo-e-gas-natural. Usando CSV local.
+2026-04-19 11:15:02,990 - INFO - CSV carregado: 61295 registros.
+2026-04-19 11:15:03,398 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-19 11:15:03,543 - INFO - package: mysql.connector.plugins
+2026-04-19 11:15:03,543 - INFO - plugin_name: caching_sha2_password
+2026-04-19 11:15:03,543 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-19 11:15:03,544 - INFO - package: mysql.connector.plugins
+2026-04-19 11:15:03,544 - INFO - plugin_name: mysql_native_password
+2026-04-19 11:15:03,545 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-19 11:15:03,653 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-19 11:15:55,936 - INFO - 40779 registros salvos no MySQL.
+2026-04-19 11:15:57,001 - INFO - Consulta ao banco executada com sucesso.
+2026-04-19 11:15:57,018 - INFO - Estatísticas calculadas e salvas.
+2026-04-19 11:15:58,616 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-19 11:15:59,183 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-19 11:15:59,183 - INFO - Pipeline executado com sucesso.
+2026-04-19 11:16:34,782 - INFO - ==================================================
+2026-04-19 11:16:34,783 - INFO - Pipeline iniciado em 2026-04-19 11:16:34
+2026-04-19 11:16:34,937 - WARNING - API Gov.br indisponível: 401 Client Error: Unauthorized for url: https://dados.gov.br/api/publico/conjuntos-dados/producao-de-petroleo-e-gas-natural. Usando CSV local.
+2026-04-19 11:16:35,944 - INFO - CSV carregado: 61295 registros.
+2026-04-19 11:16:36,614 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-19 11:16:36,775 - INFO - package: mysql.connector.plugins
+2026-04-19 11:16:36,776 - INFO - plugin_name: caching_sha2_password
+2026-04-19 11:16:36,776 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-19 11:16:36,776 - INFO - package: mysql.connector.plugins
+2026-04-19 11:16:36,776 - INFO - plugin_name: mysql_native_password
+2026-04-19 11:16:36,777 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-19 11:16:36,786 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-19 11:17:12,749 - INFO - 40779 registros salvos no MySQL.
+2026-04-19 11:17:13,936 - INFO - Consulta ao banco executada com sucesso.
+2026-04-19 11:17:13,954 - INFO - Estatísticas calculadas e salvas.
+2026-04-19 11:17:15,007 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-19 11:17:15,491 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-19 11:17:15,491 - INFO - Pipeline executado com sucesso.
+2026-04-19 11:26:06,825 - INFO - ==================================================
+2026-04-19 11:26:06,825 - INFO - Pipeline iniciado em 2026-04-19 11:26:06
+2026-04-19 11:26:07,704 - INFO - CSV carregado: 61295 registros.
+2026-04-19 11:26:08,189 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-19 11:26:08,430 - INFO - package: mysql.connector.plugins
+2026-04-19 11:26:08,431 - INFO - plugin_name: caching_sha2_password
+2026-04-19 11:26:08,431 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-19 11:26:08,431 - INFO - package: mysql.connector.plugins
+2026-04-19 11:26:08,431 - INFO - plugin_name: mysql_native_password
+2026-04-19 11:26:08,432 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-19 11:26:08,441 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-19 11:27:14,342 - INFO - 40779 registros salvos no MySQL.
+2026-04-19 11:27:15,608 - INFO - Consulta ao banco executada com sucesso.
+2026-04-19 11:27:15,621 - INFO - Estatísticas calculadas e salvas.
+2026-04-19 11:27:16,583 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-19 11:27:17,116 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-19 11:27:17,116 - INFO - Pipeline executado com sucesso.
+2026-04-19 11:33:38,133 - INFO - ==================================================
+2026-04-19 11:33:38,134 - INFO - Pipeline iniciado em 2026-04-19 11:33:38
+2026-04-19 11:33:38,928 - INFO - CSV carregado: 61295 registros.
+2026-04-19 11:33:39,338 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-19 11:33:39,471 - INFO - package: mysql.connector.plugins
+2026-04-19 11:33:39,471 - INFO - plugin_name: caching_sha2_password
+2026-04-19 11:33:39,471 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-19 11:33:39,472 - INFO - package: mysql.connector.plugins
+2026-04-19 11:33:39,472 - INFO - plugin_name: mysql_native_password
+2026-04-19 11:33:39,472 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-19 11:33:39,473 - ERROR - Erro de autenticação MySQL.
+2026-04-19 11:33:39,605 - ERROR - Erro ao salvar no MySQL: 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-04-19 11:33:39,743 - ERROR - Erro ao consultar dados: 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
+2026-04-19 11:33:39,745 - WARNING - Consulta retornou vazia.
+2026-04-19 11:35:05,245 - INFO - ==================================================
+2026-04-19 11:35:05,245 - INFO - Pipeline iniciado em 2026-04-19 11:35:05
+2026-04-19 11:35:06,015 - INFO - CSV carregado: 61295 registros.
+2026-04-19 11:35:06,418 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-19 11:35:06,554 - INFO - package: mysql.connector.plugins
+2026-04-19 11:35:06,554 - INFO - plugin_name: caching_sha2_password
+2026-04-19 11:35:06,554 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-19 11:35:06,555 - INFO - package: mysql.connector.plugins
+2026-04-19 11:35:06,555 - INFO - plugin_name: mysql_native_password
+2026-04-19 11:35:06,555 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-19 11:35:06,578 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-19 11:36:11,693 - INFO - 40779 registros salvos no MySQL.
+2026-04-19 11:36:13,166 - INFO - Consulta ao banco executada com sucesso.
+2026-04-19 11:36:13,179 - INFO - Estatísticas calculadas e salvas.
+2026-04-19 11:36:14,232 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-19 11:36:14,718 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-19 11:36:14,718 - INFO - Pipeline executado com sucesso.
+2026-04-19 11:47:11,248 - INFO - ==================================================
+2026-04-19 11:47:11,248 - INFO - Pipeline iniciado em 2026-04-19 11:47:11
+2026-04-19 11:47:12,005 - INFO - CSV carregado: 61295 registros.
+2026-04-19 11:47:12,432 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-19 11:47:12,561 - INFO - package: mysql.connector.plugins
+2026-04-19 11:47:12,561 - INFO - plugin_name: caching_sha2_password
+2026-04-19 11:47:12,561 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-19 11:47:12,562 - INFO - package: mysql.connector.plugins
+2026-04-19 11:47:12,562 - INFO - plugin_name: mysql_native_password
+2026-04-19 11:47:12,562 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-19 11:47:12,571 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-19 11:48:06,759 - INFO - 40779 registros salvos no MySQL.
+2026-04-19 11:48:07,875 - INFO - Consulta ao banco executada com sucesso.
+2026-04-19 11:48:07,885 - INFO - Estatísticas calculadas e salvas.
+2026-04-19 11:48:08,864 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-19 11:48:09,405 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-19 11:48:09,405 - INFO - Pipeline executado com sucesso.
+2026-04-22 20:24:36,751 - INFO - ==================================================
+2026-04-22 20:24:36,751 - INFO - Pipeline iniciado em 2026-04-22 20:24:36
+2026-04-22 20:24:37,321 - INFO - CSV carregado: 61295 registros.
+2026-04-22 20:24:37,616 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 20:24:37,698 - INFO - package: mysql.connector.plugins
+2026-04-22 20:24:37,699 - INFO - plugin_name: caching_sha2_password
+2026-04-22 20:24:37,699 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 20:24:37,699 - INFO - package: mysql.connector.plugins
+2026-04-22 20:24:37,699 - INFO - plugin_name: mysql_native_password
+2026-04-22 20:24:37,699 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 20:24:37,726 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 20:25:13,432 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 20:25:14,315 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 20:25:14,343 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 20:25:15,516 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-22 20:25:16,317 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-22 20:25:16,317 - INFO - Pipeline executado com sucesso.
+2026-04-22 20:32:27,562 - INFO - ==================================================
+2026-04-22 20:32:27,562 - INFO - Pipeline iniciado em 2026-04-22 20:32:27
+2026-04-22 20:32:28,092 - INFO - CSV carregado: 61295 registros.
+2026-04-22 20:32:28,382 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 20:32:28,489 - INFO - package: mysql.connector.plugins
+2026-04-22 20:32:28,489 - INFO - plugin_name: caching_sha2_password
+2026-04-22 20:32:28,489 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 20:32:28,489 - INFO - package: mysql.connector.plugins
+2026-04-22 20:32:28,489 - INFO - plugin_name: mysql_native_password
+2026-04-22 20:32:28,490 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 20:32:28,507 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 20:33:02,648 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 20:33:03,647 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 20:33:03,659 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 20:33:04,500 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-22 20:33:05,029 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-22 20:33:05,030 - INFO - Pipeline executado com sucesso.
+2026-04-22 20:34:05,054 - INFO - ==================================================
+2026-04-22 20:34:05,055 - INFO - Pipeline iniciado em 2026-04-22 20:34:05
+2026-04-22 20:34:06,449 - INFO - CSV carregado: 61295 registros.
+2026-04-22 20:34:07,205 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 20:34:07,459 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 20:34:47,270 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 20:34:47,966 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 20:34:47,985 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 20:34:48,516 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-22 20:34:49,076 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-22 20:34:49,077 - INFO - Pipeline executado com sucesso.
+2026-04-22 20:45:01,689 - INFO - ==================================================
+2026-04-22 20:45:01,689 - INFO - Pipeline iniciado em 2026-04-22 20:45:01
+2026-04-22 20:45:02,716 - INFO - CSV carregado: 61295 registros.
+2026-04-22 20:45:03,124 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 20:45:03,410 - INFO - package: mysql.connector.plugins
+2026-04-22 20:45:03,411 - INFO - plugin_name: caching_sha2_password
+2026-04-22 20:45:03,411 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 20:45:03,412 - INFO - package: mysql.connector.plugins
+2026-04-22 20:45:03,413 - INFO - plugin_name: mysql_native_password
+2026-04-22 20:45:03,418 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 20:45:03,435 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 20:45:34,093 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 20:45:34,883 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 20:45:34,907 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 20:45:36,222 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-22 20:45:36,822 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-22 20:45:36,822 - INFO - Pipeline executado com sucesso.
+2026-04-22 20:57:03,499 - INFO - ==================================================
+2026-04-22 20:57:03,499 - INFO - Pipeline iniciado em 2026-04-22 20:57:03
+2026-04-22 20:57:04,210 - INFO - CSV carregado: 61295 registros.
+2026-04-22 20:57:04,526 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 20:57:04,612 - INFO - package: mysql.connector.plugins
+2026-04-22 20:57:04,612 - INFO - plugin_name: caching_sha2_password
+2026-04-22 20:57:04,612 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 20:57:04,612 - INFO - package: mysql.connector.plugins
+2026-04-22 20:57:04,612 - INFO - plugin_name: mysql_native_password
+2026-04-22 20:57:04,613 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 20:57:04,624 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 20:57:30,415 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 20:57:31,029 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 20:57:31,041 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 20:57:31,778 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-22 20:57:32,365 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-22 20:57:32,365 - INFO - Pipeline executado com sucesso.
+2026-04-22 20:58:13,023 - INFO - ==================================================
+2026-04-22 20:58:13,023 - INFO - Pipeline iniciado em 2026-04-22 20:58:13
+2026-04-22 20:58:13,773 - INFO - CSV carregado: 61295 registros.
+2026-04-22 20:58:14,367 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 20:58:14,529 - INFO - package: mysql.connector.plugins
+2026-04-22 20:58:14,529 - INFO - plugin_name: caching_sha2_password
+2026-04-22 20:58:14,529 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 20:58:14,530 - INFO - package: mysql.connector.plugins
+2026-04-22 20:58:14,530 - INFO - plugin_name: mysql_native_password
+2026-04-22 20:58:14,531 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 20:58:14,539 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 20:58:48,461 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 20:58:49,662 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 20:58:49,685 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 20:58:50,846 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-22 20:58:51,416 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-22 20:58:51,416 - INFO - Pipeline executado com sucesso.
+2026-04-22 21:03:49,549 - INFO - ==================================================
+2026-04-22 21:03:49,550 - INFO - Pipeline iniciado em 2026-04-22 21:03:49
+2026-04-22 21:03:50,075 - INFO - CSV carregado: 61295 registros.
+2026-04-22 21:03:50,355 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 21:03:50,436 - INFO - package: mysql.connector.plugins
+2026-04-22 21:03:50,436 - INFO - plugin_name: caching_sha2_password
+2026-04-22 21:03:50,436 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 21:03:50,437 - INFO - package: mysql.connector.plugins
+2026-04-22 21:03:50,437 - INFO - plugin_name: mysql_native_password
+2026-04-22 21:03:50,438 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 21:03:50,444 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 21:04:27,695 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 21:04:28,419 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 21:04:28,437 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 21:04:29,667 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-22 21:04:30,321 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-22 21:04:30,321 - INFO - Pipeline executado com sucesso.
+2026-04-22 21:47:59,922 - INFO - ==================================================
+2026-04-22 21:47:59,922 - INFO - Pipeline iniciado em 2026-04-22 21:47:59
+2026-04-22 21:48:00,790 - INFO - CSV carregado: 61295 registros.
+2026-04-22 21:48:01,169 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 21:48:01,304 - INFO - package: mysql.connector.plugins
+2026-04-22 21:48:01,304 - INFO - plugin_name: caching_sha2_password
+2026-04-22 21:48:01,304 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 21:48:01,306 - INFO - package: mysql.connector.plugins
+2026-04-22 21:48:01,306 - INFO - plugin_name: mysql_native_password
+2026-04-22 21:48:01,307 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 21:48:01,349 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 21:48:44,967 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 21:48:45,633 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 21:48:45,646 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 21:48:46,507 - INFO - Gráfico de área empilhada salvo: resultados/grafico_linha_anual.png
+2026-04-22 21:48:47,269 - INFO - Gráfico bubble chart salvo: resultados/grafico_barras_estados.png
+2026-04-22 21:48:47,270 - INFO - Pipeline executado com sucesso.
+2026-04-22 23:23:15,042 - INFO - ==================================================
+2026-04-22 23:23:15,043 - INFO - Pipeline iniciado em 2026-04-22 23:23:15
+2026-04-22 23:23:15,732 - INFO - CSV carregado: 61295 registros.
+2026-04-22 23:23:15,989 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 23:23:16,068 - INFO - package: mysql.connector.plugins
+2026-04-22 23:23:16,068 - INFO - plugin_name: caching_sha2_password
+2026-04-22 23:23:16,068 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 23:23:16,068 - INFO - package: mysql.connector.plugins
+2026-04-22 23:23:16,068 - INFO - plugin_name: mysql_native_password
+2026-04-22 23:23:16,069 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 23:23:16,079 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 23:23:38,842 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 23:23:39,527 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 23:23:39,535 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 23:26:22,683 - INFO - ==================================================
+2026-04-22 23:26:22,683 - INFO - Pipeline iniciado em 2026-04-22 23:26:22
+2026-04-22 23:26:23,416 - INFO - CSV carregado: 61295 registros.
+2026-04-22 23:26:23,719 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 23:26:23,795 - INFO - package: mysql.connector.plugins
+2026-04-22 23:26:23,795 - INFO - plugin_name: caching_sha2_password
+2026-04-22 23:26:23,795 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 23:26:23,795 - INFO - package: mysql.connector.plugins
+2026-04-22 23:26:23,796 - INFO - plugin_name: mysql_native_password
+2026-04-22 23:26:23,796 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 23:26:23,805 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 23:26:45,290 - INFO - ==================================================
+2026-04-22 23:26:45,290 - INFO - Pipeline iniciado em 2026-04-22 23:26:45
+2026-04-22 23:26:45,766 - INFO - CSV carregado: 61295 registros.
+2026-04-22 23:26:45,998 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 23:26:46,075 - INFO - package: mysql.connector.plugins
+2026-04-22 23:26:46,075 - INFO - plugin_name: caching_sha2_password
+2026-04-22 23:26:46,075 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 23:26:46,076 - INFO - package: mysql.connector.plugins
+2026-04-22 23:26:46,076 - INFO - plugin_name: mysql_native_password
+2026-04-22 23:26:46,076 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 23:26:46,085 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 23:27:05,980 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 23:27:06,666 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 23:27:06,681 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 23:27:07,339 - INFO - Gráfico de pizza (fluidos) salvo: resultados/grafico_linha_anual.png
+2026-04-22 23:27:07,981 - INFO - Histograma mensal salvo: resultados/grafico_barras_estados.png
+2026-04-22 23:27:07,981 - INFO - Pipeline executado com sucesso.
+2026-04-22 23:28:49,248 - INFO - ==================================================
+2026-04-22 23:28:49,248 - INFO - Pipeline iniciado em 2026-04-22 23:28:49
+2026-04-22 23:28:49,880 - INFO - CSV carregado: 61295 registros.
+2026-04-22 23:28:50,133 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 23:28:50,209 - INFO - package: mysql.connector.plugins
+2026-04-22 23:28:50,209 - INFO - plugin_name: caching_sha2_password
+2026-04-22 23:28:50,209 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 23:28:50,209 - INFO - package: mysql.connector.plugins
+2026-04-22 23:28:50,209 - INFO - plugin_name: mysql_native_password
+2026-04-22 23:28:50,209 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 23:28:50,216 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 23:29:05,699 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 23:29:06,248 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 23:29:06,254 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 23:29:06,731 - INFO - Gráfico de linha salvo: resultados/grafico_linha_anual.png
+2026-04-22 23:29:07,092 - INFO - Gráfico de barras horizontais salvo: resultados/grafico_barras_estados.png
+2026-04-22 23:29:07,092 - INFO - Pipeline executado com sucesso.
+2026-04-22 23:35:40,532 - INFO - ==================================================
+2026-04-22 23:35:40,532 - INFO - Pipeline iniciado em 2026-04-22 23:35:40
+2026-04-22 23:35:41,019 - INFO - CSV carregado: 61295 registros.
+2026-04-22 23:35:41,269 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 23:35:41,348 - INFO - package: mysql.connector.plugins
+2026-04-22 23:35:41,348 - INFO - plugin_name: caching_sha2_password
+2026-04-22 23:35:41,348 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 23:35:41,348 - INFO - package: mysql.connector.plugins
+2026-04-22 23:35:41,348 - INFO - plugin_name: mysql_native_password
+2026-04-22 23:35:41,349 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 23:35:41,357 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 23:35:55,534 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 23:35:56,110 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 23:35:56,117 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 23:35:56,596 - INFO - Gráfico de pizza (estados) salvo: resultados/grafico_linha_anual.png
+2026-04-22 23:35:57,058 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_barras_estados.png
+2026-04-22 23:35:57,061 - INFO - Pipeline executado com sucesso.
+2026-04-22 23:39:40,448 - INFO - ==================================================
+2026-04-22 23:39:40,449 - INFO - Pipeline iniciado em 2026-04-22 23:39:40
+2026-04-22 23:39:41,256 - INFO - CSV carregado: 61295 registros.
+2026-04-22 23:39:41,544 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 23:39:41,627 - INFO - package: mysql.connector.plugins
+2026-04-22 23:39:41,627 - INFO - plugin_name: caching_sha2_password
+2026-04-22 23:39:41,627 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 23:39:41,627 - INFO - package: mysql.connector.plugins
+2026-04-22 23:39:41,627 - INFO - plugin_name: mysql_native_password
+2026-04-22 23:39:41,628 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 23:39:41,638 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 23:40:00,628 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 23:40:01,338 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 23:40:01,349 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 23:40:01,834 - INFO - Gráfico de pizza (estados) salvo: resultados/grafico_linha_anual.png
+2026-04-22 23:40:02,349 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_barras_estados.png
+2026-04-22 23:40:02,351 - INFO - Pipeline executado com sucesso.
+2026-04-22 23:40:28,386 - INFO - ==================================================
+2026-04-22 23:40:28,386 - INFO - Pipeline iniciado em 2026-04-22 23:40:28
+2026-04-22 23:40:29,102 - INFO - CSV carregado: 61295 registros.
+2026-04-22 23:40:29,406 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-22 23:40:29,478 - INFO - package: mysql.connector.plugins
+2026-04-22 23:40:29,478 - INFO - plugin_name: caching_sha2_password
+2026-04-22 23:40:29,478 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-22 23:40:29,479 - INFO - package: mysql.connector.plugins
+2026-04-22 23:40:29,479 - INFO - plugin_name: mysql_native_password
+2026-04-22 23:40:29,479 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-22 23:40:29,487 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-22 23:40:50,093 - INFO - 40779 registros salvos no MySQL.
+2026-04-22 23:40:50,644 - INFO - Consulta ao banco executada com sucesso.
+2026-04-22 23:40:50,650 - INFO - Estatísticas calculadas e salvas.
+2026-04-22 23:40:51,130 - INFO - Gráfico de pizza (estados) salvo: resultados/grafico_linha_anual.png
+2026-04-22 23:40:51,533 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_barras_estados.png
+2026-04-22 23:40:51,536 - INFO - Pipeline executado com sucesso.
+2026-04-23 08:48:40,746 - INFO - ===========================================================================
+2026-04-23 08:48:40,746 - INFO - Pipeline iniciado em 2026-04-23 08:48:40
+2026-04-23 08:48:41,618 - INFO - CSV carregado: 61295 registros.
+2026-04-23 08:48:42,154 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 08:48:42,379 - INFO - package: mysql.connector.plugins
+2026-04-23 08:48:42,380 - INFO - plugin_name: caching_sha2_password
+2026-04-23 08:48:42,380 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 08:48:42,382 - INFO - package: mysql.connector.plugins
+2026-04-23 08:48:42,382 - INFO - plugin_name: mysql_native_password
+2026-04-23 08:48:42,383 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 08:48:42,402 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 08:49:39,454 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 08:49:40,659 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 08:49:40,686 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 08:49:41,346 - ERROR - Erro ao gerar gráfico de pizza: object of type 'int' has no len()
+2026-04-23 08:49:42,237 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_barras_estados.png
+2026-04-23 08:49:42,240 - INFO - Pipeline executado com sucesso.
+2026-04-23 08:50:42,977 - INFO - ===========================================================================
+2026-04-23 08:50:42,977 - INFO - Pipeline iniciado em 2026-04-23 08:50:42
+2026-04-23 08:50:43,734 - INFO - CSV carregado: 61295 registros.
+2026-04-23 08:50:44,130 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 08:50:44,264 - INFO - package: mysql.connector.plugins
+2026-04-23 08:50:44,264 - INFO - plugin_name: caching_sha2_password
+2026-04-23 08:50:44,264 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 08:50:44,265 - INFO - package: mysql.connector.plugins
+2026-04-23 08:50:44,265 - INFO - plugin_name: mysql_native_password
+2026-04-23 08:50:44,266 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 08:50:44,272 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 08:51:43,521 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 08:51:44,633 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 08:51:44,655 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 08:51:45,139 - ERROR - Erro ao gerar gráfico de pizza: object of type 'int' has no len()
+2026-04-23 08:51:45,911 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_barras_estados.png
+2026-04-23 08:51:45,918 - INFO - Pipeline executado com sucesso.
+2026-04-23 08:53:16,566 - INFO - ===========================================================================
+2026-04-23 08:53:16,566 - INFO - Pipeline iniciado em 2026-04-23 08:53:16
+2026-04-23 08:53:17,512 - INFO - CSV carregado: 61295 registros.
+2026-04-23 08:53:18,013 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 08:53:18,148 - INFO - package: mysql.connector.plugins
+2026-04-23 08:53:18,149 - INFO - plugin_name: caching_sha2_password
+2026-04-23 08:53:18,149 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 08:53:18,149 - INFO - package: mysql.connector.plugins
+2026-04-23 08:53:18,149 - INFO - plugin_name: mysql_native_password
+2026-04-23 08:53:18,150 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 08:53:18,156 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 08:54:12,354 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 08:54:13,338 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 08:54:13,347 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 08:54:13,822 - ERROR - Erro ao gerar gráfico de pizza: object of type 'int' has no len()
+2026-04-23 08:54:14,495 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_barras_estados.png
+2026-04-23 08:54:14,498 - INFO - Pipeline executado com sucesso.
+2026-04-23 08:55:29,290 - INFO - ===========================================================================
+2026-04-23 08:55:29,290 - INFO - Pipeline iniciado em 2026-04-23 08:55:29
+2026-04-23 08:55:30,075 - INFO - CSV carregado: 61295 registros.
+2026-04-23 08:55:30,484 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 08:55:30,616 - INFO - package: mysql.connector.plugins
+2026-04-23 08:55:30,616 - INFO - plugin_name: caching_sha2_password
+2026-04-23 08:55:30,616 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 08:55:30,617 - INFO - package: mysql.connector.plugins
+2026-04-23 08:55:30,617 - INFO - plugin_name: mysql_native_password
+2026-04-23 08:55:30,617 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 08:55:30,638 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 08:56:30,349 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 08:56:31,460 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 08:56:31,474 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 08:56:31,969 - ERROR - Erro ao gerar gráfico de pizza: object of type 'int' has no len()
+2026-04-23 08:56:32,697 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_area.png
+2026-04-23 08:56:32,703 - INFO - Pipeline executado com sucesso.
+2026-04-23 08:58:07,254 - INFO - ===========================================================================
+2026-04-23 08:58:07,257 - INFO - Pipeline iniciado em 2026-04-23 08:58:07
+2026-04-23 08:58:08,027 - INFO - CSV carregado: 61295 registros.
+2026-04-23 08:58:08,434 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 08:58:08,563 - INFO - package: mysql.connector.plugins
+2026-04-23 08:58:08,563 - INFO - plugin_name: caching_sha2_password
+2026-04-23 08:58:08,563 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 08:58:08,564 - INFO - package: mysql.connector.plugins
+2026-04-23 08:58:08,564 - INFO - plugin_name: mysql_native_password
+2026-04-23 08:58:08,565 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 08:58:08,574 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 08:59:06,272 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 08:59:07,393 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 08:59:07,409 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 08:59:08,004 - ERROR - Erro ao gerar gráfico de pizza: object of type 'float' has no len()
+2026-04-23 08:59:08,746 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_area.png
+2026-04-23 08:59:08,751 - INFO - Pipeline executado com sucesso.
+2026-04-23 09:01:04,367 - INFO - ===========================================================================
+2026-04-23 09:01:04,367 - INFO - Pipeline iniciado em 2026-04-23 09:01:04
+2026-04-23 09:01:05,378 - INFO - CSV carregado: 61295 registros.
+2026-04-23 09:01:05,867 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 09:01:06,023 - INFO - package: mysql.connector.plugins
+2026-04-23 09:01:06,023 - INFO - plugin_name: caching_sha2_password
+2026-04-23 09:01:06,023 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 09:01:06,024 - INFO - package: mysql.connector.plugins
+2026-04-23 09:01:06,024 - INFO - plugin_name: mysql_native_password
+2026-04-23 09:01:06,024 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 09:01:06,032 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 09:02:00,323 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 09:02:01,383 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 09:02:01,397 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 09:02:01,875 - ERROR - Erro ao gerar gráfico de pizza: object of type 'int' has no len()
+2026-04-23 09:02:02,584 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_area.png
+2026-04-23 09:02:02,587 - INFO - Pipeline executado com sucesso.
+2026-04-23 09:02:57,285 - INFO - ===========================================================================
+2026-04-23 09:02:57,286 - INFO - Pipeline iniciado em 2026-04-23 09:02:57
+2026-04-23 09:02:58,061 - INFO - CSV carregado: 61295 registros.
+2026-04-23 09:02:58,468 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 09:02:58,600 - INFO - package: mysql.connector.plugins
+2026-04-23 09:02:58,600 - INFO - plugin_name: caching_sha2_password
+2026-04-23 09:02:58,600 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 09:02:58,600 - INFO - package: mysql.connector.plugins
+2026-04-23 09:02:58,600 - INFO - plugin_name: mysql_native_password
+2026-04-23 09:02:58,601 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 09:02:58,609 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 09:03:57,606 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 09:03:58,791 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 09:03:58,804 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 09:03:59,839 - INFO - Gráfico de pizza (estados) salvo: resultados/grafico_pizza.png
+2026-04-23 09:04:00,601 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_area.png
+2026-04-23 09:04:00,604 - INFO - Pipeline executado com sucesso.
+2026-04-23 09:08:07,580 - INFO - ===========================================================================
+2026-04-23 09:08:32,556 - INFO - ===========================================================================
+2026-04-23 09:08:32,556 - INFO - Pipeline iniciado em 2026-04-23 09:08:32
+2026-04-23 09:08:33,330 - INFO - CSV carregado: 61295 registros.
+2026-04-23 09:08:33,738 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 09:08:33,869 - INFO - package: mysql.connector.plugins
+2026-04-23 09:08:33,869 - INFO - plugin_name: caching_sha2_password
+2026-04-23 09:08:33,869 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 09:08:33,870 - INFO - package: mysql.connector.plugins
+2026-04-23 09:08:33,870 - INFO - plugin_name: mysql_native_password
+2026-04-23 09:08:33,870 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 09:08:33,877 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 09:09:23,945 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 09:09:25,176 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 09:09:25,190 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 09:09:26,208 - INFO - Gráfico de pizza (estados) salvo: resultados/grafico_pizza.png
+2026-04-23 09:09:27,056 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_area.png
+2026-04-23 09:09:27,061 - INFO - Pipeline executado com sucesso.
+2026-04-23 10:23:29,661 - INFO - ===========================================================================
+2026-04-23 10:23:29,664 - INFO - Pipeline iniciado em 2026-04-23 10:23:29
+2026-04-23 10:23:30,434 - INFO - CSV carregado: 61295 registros.
+2026-04-23 10:23:30,830 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 10:23:30,960 - INFO - package: mysql.connector.plugins
+2026-04-23 10:23:30,960 - INFO - plugin_name: caching_sha2_password
+2026-04-23 10:23:30,960 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 10:23:30,961 - INFO - package: mysql.connector.plugins
+2026-04-23 10:23:30,961 - INFO - plugin_name: mysql_native_password
+2026-04-23 10:23:30,961 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 10:23:30,971 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 10:24:25,607 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 10:24:26,716 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 10:24:26,731 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 10:24:27,691 - INFO - Gráfico de pizza (estados) salvo: resultados/grafico_pizza.png
+2026-04-23 10:24:28,532 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_area.png
+2026-04-23 10:24:28,534 - INFO - Pipeline executado com sucesso.
+2026-04-23 10:34:56,966 - INFO - ===========================================================================
+2026-04-23 10:34:56,966 - INFO - Pipeline iniciado em 2026-04-23 10:34:56
+2026-04-23 10:34:57,797 - INFO - CSV carregado: 61295 registros.
+2026-04-23 10:34:58,256 - INFO - Dados filtrados (1970–1979): 40779 registros.
+2026-04-23 10:34:58,408 - INFO - package: mysql.connector.plugins
+2026-04-23 10:34:58,408 - INFO - plugin_name: caching_sha2_password
+2026-04-23 10:34:58,408 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-04-23 10:34:58,409 - INFO - package: mysql.connector.plugins
+2026-04-23 10:34:58,409 - INFO - plugin_name: mysql_native_password
+2026-04-23 10:34:58,409 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-04-23 10:34:58,419 - INFO - Estrutura do banco criada/verificada com sucesso.
+2026-04-23 10:35:55,201 - INFO - 40779 registros salvos no MySQL.
+2026-04-23 10:35:56,266 - INFO - Consulta ao banco executada com sucesso.
+2026-04-23 10:35:56,278 - INFO - Estatísticas calculadas e salvas.
+2026-04-23 10:35:57,297 - INFO - Gráfico de pizza (estados) salvo: resultados/grafico_pizza.png
+2026-04-23 10:35:58,056 - INFO - Gráfico de área empilhada (campos) salvo: resultados/grafico_area.png
+2026-04-23 10:35:58,060 - INFO - Pipeline executado com sucesso.
